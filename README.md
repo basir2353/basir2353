@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=fff"></a>
 <a href="https://www.linkedin.com/in/abdul-basit-1a56b3275/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff"></a> 
-<a href="mailto:yourmail@example.com" target="_blank">
+<a href="mailto:mabdulbasitdogar@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D44638?style=flat-square&logo=gmail&logoColor=fff"></a>
-<a href="https://wa.me/923000000000?text=Hi%20Basit%2C%20I%20found%20you%20via%20GitHub" target="_blank">
+<a href="https://wa.me/+923469517653?text=Hi%20Basit%2C%20I%20found%20you%20via%20GitHub" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=fff"></a>  
 
 </div>
